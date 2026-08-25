@@ -4,7 +4,7 @@
 The objective of this assignment is to create a functional, professional, and fluid portfolio that accurately records data for all my future assignments in MEGR 2156 that can be accessed by myself, instructors, and future employers. This is performed by evaluating previous portfolios, analyzing my own mechanical structure, and communicating findings. It presents the outlining structure for navigating and updating said portfolio for all future assignments.
 
 ## Analyze
-Portfolio 1 - Riley Shaffer - [https://uncc.instructure.com/eportfolios/3698/Home/About_Me]
+Portfolio 1 - [Riley Shaffer](https://uncc.instructure.com/eportfolios/3698/Home/About_Me)
 
 A. Navigability: On first glance Shaffers' portfolio poses and very concise user interface. There are clear marked links on the right side of the page that indicates the location of each assignment with labels and tabs that connect to each designated assignment page. Within each assignment tab there are descriptions, photos, and downloadable links that further go into detail about each assignment and its functions. Overall very well organized and simple. Each assignment can definitely be found within 60 seconds.
 
