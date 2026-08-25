@@ -24,6 +24,19 @@ C. Evidence of reasoning: Quinn does an excellent job of providing thorough back
 
 D. Professional Tone: I do believe that Quinn uses verbiage that is indicative of knowledgeable and trusted information. Quinn is not afraid to go into detail to support or explain a set of data. This portfolio contains a balance of leisure and professionalism. On many cases Quinn is discussing personal interests and hobbies, such as Rick and Morty but is able to articulate the connecting pieces that still feel adequate for the viewing from an employer. The information feels relevant, smart, and personal. 
 
+Task B - Product Analysis - Scissors 
+
+<img width="3024" height="4032" alt="Untitled design" src="https://github.com/user-attachments/assets/ff6bfc38-dcc7-420a-a5ac-265820b3a568" />
+
+Primary Function - The primary function of scissors is to cut different materials by converting an applied force into concentrated shear forces between two blades, causing said material to separate or to be cut. 
+<img width="300" height="438" alt="Screenshot 2026-08-25 at 7 48 44 AM" src="https://github.com/user-attachments/assets/62320f12-d4cb-43fe-91ec-ab98caf02bc7" />
+
+Governing Model - The governing model represented by two blades that connect to a uniform pivot point and is modeled by the shear stress equation as follows, τ=F/A, where τ is shear stress, F is the cutting force, and A is the sheared area. The assumption for this product would be that the material will always be uniform and homogeneous which allows the shear stress to be approximated as evenly distributed across the entire material that is being cut. 
+<img width="3024" height="4032" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/26bbdeda-5398-4809-82a4-0df321d3d331" /> <img width="3024" height="4032" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/0b6b05b5-6665-47ec-8a30-e014afc42a5f" />
+Symmetry is very critical with this mechanical system a scissor handle acts as a lever about the pivot when the user is applying force at the handle end or the handle loop located at the bottom. The length and curved geometry provide mechanical advantage by increasing the torque about the pivot which is then transferred to the blade. This allows the mechanical system to cut whatever is between the scissors. 
+<img width="3024" height="4032" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/e5863e0e-aafa-49b6-89b6-e17006b69b9c" />
+The pivot point in the middle of this system is a fixed rotational joint that connects the two scissor blades this allows them to rotate relative to each other around a central axis. Its position controls the blade motion and provides the movement that separates the material.
+
 ## Decide
 
 
