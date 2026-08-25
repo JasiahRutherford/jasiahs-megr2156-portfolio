@@ -14,6 +14,16 @@ C. Evidence of reasoning: Shaffer does an excellent job in this section of the c
 
 D. Professional Tone: After analyzing and reviewing Shaffers' portfolio I do believe that he used adequate and technical verbiage in his descriptions. As I would assume that this was held paramount in a fluid portfolio such as this. Words such as "sectional area", "deflecting equation", and "mounting shaft" just to name a few. Highlight the scope of the topics discussed throughout this portfolio. A very skilled engineer that is held up to the standards of an employer. 
 
+Portfolio 2 - [Zach Quinn](https://github.com/Zachlq/Professional_Portfolio)
+
+A. Navigability: Quinn provides a very concise user interface. He utilizes GitHubs features and optimizes the information provided. The initial screen directly shows that this page belongs to him while he provides personal information and hyperlinks that delve even deeper into his assets. While this portfolio contains a different format than that the previous portfolio I believe a user with adequate GitHub experience will be able to navigate and utilize Quinns' page to find given information within 60 seconds.
+
+B. Reproducibility: Quinn provides a multitude of charts, graphs, and data to support his findings. Given he is a data engineer I am not fully versed in the nomenclature and verbiage used I would not provide an accurate description on if this information would be easily reproduced. I will say on viewing that this information does not particularly seem to be data that is meant for reproduction. It is a portfolio to showcase data visualization skills and promote personal interests and ventures through data.  
+
+C. Evidence of reasoning: Quinn does an excellent job of providing thorough background support of all of his information that he is presenting. A short explanation or blurb is found beneath all photos describing in detail the reasonings, purpose, and connection that the data provides. Quinn even often goes into detail on how this information pertains to his personal life. For example, when providing a graph that showcases average spending categories and habits he prompts and advocates for the usage of a banking API/Python SDK, Mint. Then going into detail on why this has aided him in tracking personal spending habits. 
+
+D. Professional Tone: I do believe that Quinn uses verbiage that is indicative of knowledgeable and trusted information. Quinn is not afraid to go into detail to support or explain a set of data. This portfolio contains a balance of leisure and professionalism. On many cases Quinn is discussing personal interests and hobbies, such as Rick and Morty but is able to articulate the connecting pieces that still feel adequate for the viewing from an employer. The information feels relevant, smart, and personal. 
+
 ## Decide
 
 
