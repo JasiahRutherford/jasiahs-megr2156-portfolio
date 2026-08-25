@@ -1,4 +1,12 @@
 # A1 – Build Your Professional Portfolio
+1. Homepage Identity
+This homepage will clearly state that the portfolio is an engineering design and problem-solving record containing documented assignments, analyses, and design decisions. It will be organized by assignment so that peers, instructors, and future employers can easily understand the progression of my work, and it will emphasize concise and user friendly interface for all information provided. This also gives other engineering professionals an understanding of what my portfolio contains and the level of professionalism expected by its documentation.
+
+2. One Intentional Customization
+I added hyperlinks when referencing any information such as when I mentioned the portfolios I reviewed to make navigation and access more efficient. This allows my portfolio to be more user friendly and easy to navigate not only for a professional reader but for any persons' who I experiencing my portfolio.
+
+3. My Documentation Standard
+Every assignment entry I submit will clearly explain the engineering reasoning, show the relevant evidence and calculations, and use accurate terminology so that any engineer can understand and evaluate the work without any additional explanation.
 
 ## Objective
 The objective of this assignment is to create a functional, professional, and fluid portfolio that accurately records data for all my future assignments in MEGR 2156 that can be accessed by myself, instructors, and future employers. This is performed by evaluating previous portfolios, analyzing my own mechanical structure, and communicating findings. It presents the outlining structure for navigating and updating said portfolio for all future assignments.
@@ -36,6 +44,12 @@ Governing Model - The governing model represented by two blades that connect to 
 Symmetry is very critical with this mechanical system a scissor handle acts as a lever about the pivot when the user is applying force at the handle end or the handle loop located at the bottom. The length and curved geometry provide mechanical advantage by increasing the torque about the pivot which is then transferred to the blade. This allows the mechanical system to cut whatever is between the scissors. 
 <img width="3024" height="4032" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/e5863e0e-aafa-49b6-89b6-e17006b69b9c" />
 The pivot point in the middle of this system is a fixed rotational joint that connects the two scissor blades this allows them to rotate relative to each other around a central axis. Its position controls the blade motion and provides the movement that separates the material.
+
+Patent Research - 
+Patent #: US3376641A
+Inventor: Andrew C Usborne
+Alternative solutions: The functions of a guillotine and a rotary cutter are the same they both separate material through a cutting action
+Design Decision: One of the design decisions I noticed in the geometry of this system is that the scissors use a long handle relative to the blade which increases mechanical advantage. This allows the user to apply less force at the handles while producing a greater cutting force at the blades.
 
 ## Decide
 
