@@ -23,7 +23,7 @@ I then solved and sketched a FBD for each joint of my truss, numerically solving
 
 <img width="474" height="622" alt="image" src="https://github.com/user-attachments/assets/a37f0b08-c0bf-41c9-8aa3-7fba54766e02" />
 
-I was then tasked with using the largest internal force to calculate the required cross-sectional area of the elements using a provided safety factor of 3.5, and the yield strength. The yield strength was not provided and I found a commonly used yield strength of 269MPa for carbon steel structural tubing on this website [(https://www.amerpipe.com/products/welded-pipe/a500-specifications-page/0] After listing all my knowns and unknowns I solved for the cross sectional area symbolically and numerically to arrive at the approximate weight of the truss. This section felt the easiest for me personally, though I am still a little unsure about total length calculation. 
+I was then tasked with using the largest internal force to calculate the required cross-sectional area of the elements using a provided safety factor of 3.5, and the yield strength. The yield strength was not provided and I found a commonly used yield strength of 269MPa for carbon steel structural tubing on this [website](https://www.amerpipe.com/products/welded-pipe/a500-specifications-page/0) After listing all my knowns and unknowns I solved for the cross sectional area symbolically and numerically to arrive at the approximate weight of the truss. This section felt the easiest for me personally, though I am still a little unsure about total length calculation. 
 
 <img width="428" height="605" alt="image" src="https://github.com/user-attachments/assets/6af8c11d-4e9c-411f-9529-9c72c6fe4269" />
 
