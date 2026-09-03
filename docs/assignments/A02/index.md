@@ -21,6 +21,16 @@ I decided to use this final truss geometry which I believe to be the best based 
 
 I then solved and sketched a FBD for each joint of my truss, numerically solving for each internal force. I also provided a section where I symbolically solved for each internal force. This was something that did confuse me at first. It became a lot easier when I became more clear on what variables were assigned to what sections of my joint. I am much better with numbers than symbols. 
 
+<img width="474" height="622" alt="image" src="https://github.com/user-attachments/assets/a37f0b08-c0bf-41c9-8aa3-7fba54766e02" />
+
+I was then tasked with using the largest internal force to calculate the required cross-sectional area of the elements using a provided safety factor of 3.5, and the yield strength. The yield strength was not provided and I found a commonly used yield strength of 269MPa for carbon steel structural tubing on this website [(https://www.amerpipe.com/products/welded-pipe/a500-specifications-page/0] After listing all my knowns and unknowns I solved for the cross sectional area symbolically and numerically to arrive at the approximate weight of the truss. This section felt the easiest for me personally, though I am still a little unsure about total length calculation. 
+
+<img width="428" height="605" alt="image" src="https://github.com/user-attachments/assets/6af8c11d-4e9c-411f-9529-9c72c6fe4269" />
+
+As shown above I then was tasked with determining the cross-sectional area of the connecting pins which are made of hardened tool steel with a yield shear strength of 170 ksi and a density of 0.278 lb/in3. While assuming that the elements that are in compression won’t fail in buckling. Again listing all my knowns and unknowns to make the process of solving this step much smoother. I provided the symbolic and numerical formulas and solutions to this step. I also provided a FBD of the pin and included the largest reaction load at a pin which happens to be 25kN. Most of these calculations were met with reworkings and tweaks until I felt comfortable with the results.
+
+
+
 
 
 ## Communicate
