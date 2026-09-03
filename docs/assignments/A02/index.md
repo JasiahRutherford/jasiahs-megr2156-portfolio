@@ -10,6 +10,10 @@ I analyzed the given geometric constraints and information I was given with a=0.
 
 
 ## Decide
+I decided to use P=25 kN as my forces and create a simple triangular truss connecting A, B, C, and D. I selected this geometry because triangles provide stability while keeping the number of members and overall weight low. This design also makes it easier to calculate the member forces and transfer the loads at C and D to the supports.
+<img width="591" height="609" alt="image" src="https://github.com/user-attachments/assets/5426fa6f-97a9-4a14-b0c0-9c3a8c0bbeab" />
+I decided to use this final truss geometry which I believe to be the best based on structural stability and simplicity. The geometry I have presented meets all the required dimensions and support conditions, I have provided a FBD and calculations of all reaction forces on this truss. This final design was used for all the remaining calculations. I initially had some trouble calculating these forces as I did not notice that each load P was pointing in a different direction. This geometry came to me fairly quickly, it was the first design that came to mind when attempting this truss problem.
+
 
 
 ## Communicate
