@@ -29,6 +29,22 @@ After these parameters were set, I created an extrude of a circle directly on th
 <img width="737" height="505" alt="image" src="https://github.com/user-attachments/assets/e5c6235b-1910-4c7c-a95b-60baba8183e1" />
 <img width="1095" height="867" alt="image" src="https://github.com/user-attachments/assets/74be3929-f729-4718-ae0a-6d595f278908" />
 
+After the beam was created with all the correct constraints applied, it was time to run the FEA. I switched into the live simulation mode to begin, applying a fixed constraint on the left side of the bar and a pulling force on the right side of the bar to mimic our design. This pulling force correctly matched my given force of **400lbf.** After setting these correct forces, I ran the analysis and created an axial deflection map and a Von Mises Stress Map. 
+
+<img width="1165" height="606" alt="image" src="https://github.com/user-attachments/assets/2ea774f3-c8fd-43ac-9586-3e7eb6934311" />
+<img width="1452" height="514" alt="image" src="https://github.com/user-attachments/assets/c2e5812e-33c1-4d8d-ac1b-c1847c59c1e3" />
+<img width="1514" height="537" alt="image" src="https://github.com/user-attachments/assets/722925ae-1956-49b1-9168-c0c5a56bb515" />
+
+**Design Reflection**
+After running my simulation to calculate maximum stress, I discovered that the maximum stress was **0.5095ksi** which is below the **40ksi** yield strength of aluminum. The calculation that I derived from my simulation was **0.541ksi** which is a little higher than my calculated value. This can be accounted by the conservative nature of my hand calculations. Creo is able to account for a more detailed representation of the geometry, loading, and stress distribution. The percent difference came out to be **1.1%** and I calculated a safety factor of **73.9.** I would trust the results from Creo's calculations simply because the safety factor seems more reasonable given all our constraints. If we would have used my maximum stress the safety factor would be 80, which seems unreasonable high.
+
+<img width="789" height="478" alt="image" src="https://github.com/user-attachments/assets/5e740e0c-3989-46cc-ad4b-15570f0bbc80" />
+
+**Pin Hole Analysis**
+
+
+
+
 
 
 
