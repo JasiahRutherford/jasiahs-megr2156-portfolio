@@ -9,6 +9,8 @@
 
 <img width="630" height="251" alt="image" src="https://github.com/user-attachments/assets/1a0753d5-8e99-46b3-81f8-634a2b877903" />
 
+## Decide
+
 **Design Process**
 
 <img width="794" height="593" alt="image" src="https://github.com/user-attachments/assets/f71596ee-33d7-498f-b228-727b99c8b45b" />
@@ -24,6 +26,8 @@ I designed this beam with the given specific parameters including the preferred 
 <img width="700" height="494" alt="image" src="https://github.com/user-attachments/assets/365a77eb-b299-403e-8b14-7449a216fa04" />
 <img width="607" height="568" alt="image" src="https://github.com/user-attachments/assets/2c7509b2-bd3e-46fc-a487-5374b2f3cda9" />
 
+## Analyze
+
 After these parameters were set, I created an extrude of a circle directly on the front plane and ensured they followed the applied parameters. As shown in the previous image I was able to set my length and diameter to directly follow my calculated values, using the Relations tab. I chose to set d0=length and d1=diameter to ensure complete accuracy within my beam. I then set the material of my beam to the mentioned material Aluminum by going to the file tab in the top left corner->prepare tab->model properties->and changed the material to Aluminum. This was my first time ever changing the material of any part I have created, it has been a year plus since I have interacted with Creo so there was a lot of learning and discovering that occurred. 
 
 <img width="737" height="505" alt="image" src="https://github.com/user-attachments/assets/e5c6235b-1910-4c7c-a95b-60baba8183e1" />
@@ -36,26 +40,27 @@ After the beam was created with all the correct constraints applied, it was time
 <img width="1514" height="537" alt="image" src="https://github.com/user-attachments/assets/722925ae-1956-49b1-9168-c0c5a56bb515" />
 
 **Design Reflection**
+
 After running my simulation to calculate maximum stress, I discovered that the maximum stress was **0.5095ksi** which is below the **40ksi** yield strength of aluminum. The calculation that I derived from my simulation was **0.541ksi** which is a little higher than my calculated value. This can be accounted by the conservative nature of my hand calculations. Creo is able to account for a more detailed representation of the geometry, loading, and stress distribution. The percent difference came out to be **1.1%** and I calculated a safety factor of **73.9.** I would trust the results from Creo's calculations simply because the safety factor seems more reasonable given all our constraints. If we would have used my maximum stress the safety factor would be 80, which seems unreasonable high.
 
 <img width="789" height="478" alt="image" src="https://github.com/user-attachments/assets/5e740e0c-3989-46cc-ad4b-15570f0bbc80" />
 
 **Pin Hole Analysis**
+According to Peterson's Stress Concentration Factors, a standard traverse hole in a tension bar yields a theoretical stress concentration factor of **Kt=2.5.** Using the value I was given, I calculated the peak stress which was **1.3ksi** which remains below the **40ksi** yield strength of Aluminum, which comes out to a safety factor of **30.78** meaning it would easily pass given all our constraints.
 
-
-
-
-
-
-
-
-
-
-## Analyze
-
-
-## Decide
-
+<img width="803" height="329" alt="image" src="https://github.com/user-attachments/assets/17ea4fdf-f61b-47a4-8c08-2e4e45b8b307" />
 
 ## Communicate
+Before this assignment I had not had any experience with many features needed to complete this project. Running an FEA on a CAD part, changing a parts material, and implementing parameters. So there was a learning curve in discovering these functions and how they operate. I looked up a lot of these equations needed to find needed values to progress through this assignment which did add some time setbacks. I was a little lost about the cross sectional area as the assignment description talks about width, height, and length but I continued with keeping a circular rod for this part. This project took me 5 hours to complete. 
+[CAD File:]<https://drive.google.com/file/d/1ilvBpvo5X-l_E6AZ4-OrubJ9jdrhY0ob/view?usp=sharing>
+
+
+
+
+
+
+
+
+
+
 
