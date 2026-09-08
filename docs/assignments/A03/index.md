@@ -52,6 +52,7 @@ According to Peterson's Stress Concentration Factors, a standard traverse hole i
 
 ## Communicate
 Before this assignment I had not had any experience with many features needed to complete this project. Running an FEA on a CAD part, changing a parts material, and implementing parameters. So there was a learning curve in discovering these functions and how they operate. I looked up a lot of these equations needed to find needed values to progress through this assignment which did add some time setbacks. I was a little lost about the cross sectional area as the assignment description talks about width, height, and length but I continued with keeping a circular rod for this part. This project took me 5 hours to complete. 
+
 [CAD File:]<https://drive.google.com/file/d/1ilvBpvo5X-l_E6AZ4-OrubJ9jdrhY0ob/view?usp=sharing>
 
 
