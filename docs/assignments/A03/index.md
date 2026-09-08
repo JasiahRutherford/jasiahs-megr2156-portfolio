@@ -15,6 +15,16 @@
 
 I first started using the beam description and given values. I was tasked with creating an aluminum beam that contains a circular cross section. Finding the optimal length that will satisfy a maximum axial deflection of **.009in** and withstand a tensile load of **400lbf.** I chose a **1.00in** diameter and then solved for the cross sectional area, **.785in^2.** After I calculated this area I was able to determine the beams bar length from the direct tension elongation equation. I really enjoy having the freedom to choose my diameter and E value from a range of values given in the initial problem statement, this makes me feel more involved and interested in the outcome of my beam.
 
+**CAD Design**
+
+<img width="445" height="539" alt="image" src="https://github.com/user-attachments/assets/9b3d6fbd-5842-4a3a-b98a-cd7cc5449c54" />
+
+I designed this beam with the given specific parameters including the preferred material Aluminum. I chose to use Creo since this is the only CAD software I am familiar with. I learned as I progressed through the assignment on the more intricate details of the software including how to set parameters, change material, and run a FEA. First, I navigated to the parameters tab under the modification tab located at the top of Creo. This is where I entered my given values for force, axial deflection, elasticity for the material, and diameter. I discovered you were able to set equations in the Relations tab to further confirm my hand calculations.
+
+<img width="700" height="494" alt="image" src="https://github.com/user-attachments/assets/365a77eb-b299-403e-8b14-7449a216fa04" />
+<img width="607" height="568" alt="image" src="https://github.com/user-attachments/assets/2c7509b2-bd3e-46fc-a487-5374b2f3cda9" />
+
+
 
 
 
