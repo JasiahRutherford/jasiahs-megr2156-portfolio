@@ -11,9 +11,20 @@ After reviewing the project requirements, Appendix A, and Appendix B to understa
 The project let us choose from the allowed choices ABS, PETG, or PLA. I compared the available materials and then selected PLA for my design. I decided to choose PLA because it provides sufficient strength and stiffness for the calculated loading conditions. I used the following parameters:
 
 E = 3500 MPa
+
 Sy = 48 MPa
+
 σ_allow = 48 / 3 = 16
+
 σ_allow = 16 MPa
+
+I researched motor-mount designs to understand common features, shapes, and intricacies in this specific part. Some of these designs included motor mounting plates, L-shaped brackets, and brackets with reinforcing gussets. After looking at multiple sites and concluding my research I decided that an L-shaped mount would be appropriate for this project.
+
+Links used:
+
+https://www.pololu.com/product/1084
+
+https://www.pololu.com/product/1995/resources
 
 ## Decide
 
