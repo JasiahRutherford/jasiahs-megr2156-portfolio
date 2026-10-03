@@ -22,7 +22,8 @@ I researched motor-mount designs to understand common features, shapes, and intr
 
 Links used:
 
-[Website 1](https://www.pololu.com/product/1084
+[Website 1](https://www.pololu.com/product/1084)
+
 [Website 2](https://www.rpmrubberparts.com/6-considerations-for-engine-mount-design/)
 
 
