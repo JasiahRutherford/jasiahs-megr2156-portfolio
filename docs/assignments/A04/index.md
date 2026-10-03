@@ -26,6 +26,12 @@ Links used:
 
 [Website 2](https://www.rpmrubberparts.com/6-considerations-for-engine-mount-design/)
 
+## Feature 1
+I have added a photo that includes all calculations and dimensions used for the first feature of the motor mount, being a fixed cantilever beam connected at wall A. Including applied force, length, and maximum bending moment. I used beam equations to calculate required thickness keeping in mind stress and deflection. After finding the respected values I chose a deflection requirement which was a centerpiece for this first feature being 18mm. These calculations yielded values for stress and deflection as shown below. 
+
+<img width="2168" height="2928" alt="CamScanner 10-3-26 19 34_1" src="https://github.com/user-attachments/assets/40a2b2ec-b080-47b9-9c5f-6ed6a3425098" />
+
+
 
 
 ## Decide
