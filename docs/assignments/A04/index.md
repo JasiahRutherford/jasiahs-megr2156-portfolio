@@ -6,7 +6,14 @@ The objective of this project was to design a motor mount for a 24 V DC gear mot
 The mount must be designed using a safety factor of 3 and must have a maximum allowable deflection of 0.30 mm at the free end. The motor's weight is neglected. The final goal is to create a practical motor mount that satisfies the calculated stress and deflection requirements and can be manufactured as a parametric CAD model.
 
 ## Analyze
+After reviewing the project requirements, Appendix A, and Appendix B to understand the loading conditions, motor dimensions, and expected design approach. Appendix A was used to obtain the actual motor dimensions, including the Ø28 mm gearbox, Ø27.7 mm motor body, Ø6 mm shaft, Ø22 mm mounting-hole pattern, and four M3 mounting holes.
 
+The project let us choose from the allowed choices ABS, PETG, or PLA. I compared the available materials and then selected PLA for my design. I decided to choose PLA because it provides sufficient strength and stiffness for the calculated loading conditions. I used the following parameters:
+
+E = 3500 MPa
+Sy = 48 MPa
+σ_allow = 48 / 3 = 16
+σ_allow = 16 MPa
 
 ## Decide
 
