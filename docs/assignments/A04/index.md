@@ -34,7 +34,7 @@ I have added a photo that includes all calculations and dimensions used for the 
 ## Feature 2
 I have attached a photo that includes all calculations and dimensions used for the second feature of the motor mount, analyzed as the vertical member attached to rigid wall A. Similarly to Feature 1 I included the forces, length, maximum bending moment, and moment produced by the first feature as well. Using appendix B, I calculated the stress and deflection calculations as shown. Using the previously selected deflection requirement of 18mm. These calculations yielded values for stress and deflection as shown below. 
 
-[CamScanner 10-3-26 19.55.pdf](https://github.com/user-attachments/files/33013978/CamScanner.10-3-26.19.55.pdf)
+<img width="2168" height="2928" alt="CamScanner 10-3-26 19.55.pdf" src="https://github.com/user-attachments/files/33013978/CamScanner.10-3-26.19.55.pdf" />
 
 ## Decide
 Material Selection: I chose PLA because it is lightweight, inexpensive, easy to 3D print, and strong enough to handle the expected loads.
