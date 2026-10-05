@@ -12,7 +12,7 @@ The objective of this assignment is to create a bracket through detail-design th
 - Reflect on and document key engineering lessons learned throughout the process.
 
 ## Analyze
-For my bracket I selected Aluminum 6061-T6 for my material: (Sy = 35,000 psi, E = 10x10^6 psi) over my two other options ASTM A36 Steel and Ti-6Al-4V. I decided on this material because it carries the given load with a safety factor of 4 without oversizing the part or making it too heavy. I then decided on using F = 650 lbf as my applied force, since it is the midpoint of the given range.
+For my bracket I selected Aluminum 6061-T6 for my material: (Sy = 40,000 psi, E = 10x10^6 psi) over my two other options ASTM A36 Steel and Ti-6Al-4V. I decided on this material because it carries the given load with a safety factor of 4 without oversizing the part or making it too heavy. I then decided on using F = 650 lbf as my applied force, since it is the midpoint of the given range.
 
 
 ## Decide
