@@ -14,6 +14,12 @@ The objective of this assignment is to create a bracket through detail-design th
 ## Analyze
 For my bracket I selected Aluminum 6061-T6 for my material: (Sy = 40,000 psi, E = 10x10^6 psi) over my two other options ASTM A36 Steel and Ti-6Al-4V. I decided on this material because it carries the given load with a safety factor of 4 without oversizing the part or making it too heavy. I then decided on using F = 650 lbf as my applied force, since it is the midpoint of the given range.
 
+<img width="2120" height="2808" alt="CamScanner 10-5-26 23 55_2 2" src="https://github.com/user-attachments/assets/c7f9463b-7164-49f5-824e-4540e4b8781e" />
+<img width="2136" height="3080" alt="CamScanner 10-5-26 23 55_3 2" src="https://github.com/user-attachments/assets/e20db5fa-a0e2-46f5-b88c-eb238b193349" />
+<img width="2204" height="3160" alt="CamScanner 10-5-26 23 55_4 2" src="https://github.com/user-attachments/assets/56e7198a-63fa-4d57-a83d-986f2fc9cc9b" />
+<img width="2116" height="3020" alt="CamScanner 10-5-26 23 55_5 2" src="https://github.com/user-attachments/assets/a8abdcf0-0033-43bd-8358-c158acd2c06e" />
+<img width="2232" height="3068" alt="CamScanner 10-5-26 23 55_1" src="https://github.com/user-attachments/assets/2bce06cc-52ca-42fb-9b6e-e1b3b868803f" />
+
 
 ## Decide
 
