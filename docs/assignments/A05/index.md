@@ -21,7 +21,12 @@ For my bracket I selected Aluminum 6061-T6 for my material: (Sy = 40,000 psi, E 
 <img width="2232" height="3068" alt="CamScanner 10-5-26 23 55_1" src="https://github.com/user-attachments/assets/2bce06cc-52ca-42fb-9b6e-e1b3b868803f" />
 
 
-## Decide
+## Lessons Learned
+Error Propagation: Reaction loads determined at the strap support transferred directly downstream into Feature B as an end point load, generating a moment that governed the required thickness of the base attachment.
+
+Assumption Sensitivity: Neglecting direct shear simplified the beam models; however, incorporating transverse shear stress near the wall attachment would increase local thickness requirements.
+
+Time Requirements: Completing the full hand calculations, free body diagrams, stiffness/stress evaluations, and multiview sketches for this assignment took approximately 4 to 5 hours in total.
 
 
 ## Communicate
